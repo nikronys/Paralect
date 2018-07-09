@@ -1,1 +1,5 @@
+<<<<<<< 4cc8c47d44abe825418c366072a0c58ebaf187ea
 The river stole the gods.
+=======
+Two seats were vacant.
+>>>>>>> Change to new sentence
